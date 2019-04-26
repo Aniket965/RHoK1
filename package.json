@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "express": "~4.16.0",
-    "twilio": "~1.1.4",
+    "twilio": "~2.11.1",
     "ejs": "~0.8.4"
   }
 }
